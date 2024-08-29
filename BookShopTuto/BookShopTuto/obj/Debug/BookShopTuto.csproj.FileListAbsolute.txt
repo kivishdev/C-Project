@@ -1,0 +1,14 @@
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\bin\Debug\BookShopTuto.exe.config
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\bin\Debug\BookShopTuto.exe
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\bin\Debug\BookShopTuto.pdb
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.csproj.AssemblyReference.cache
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Books.resources
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.DashBoard.resources
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Login.resources
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Splash.resources
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Properties.Resources.resources
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Users.resources
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.csproj.GenerateResource.cache
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.csproj.CoreCompileInputs.cache
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.exe
+C:\Users\shivd\source\repos\Book shop Project\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.pdb
